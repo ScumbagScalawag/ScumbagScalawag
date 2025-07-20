@@ -2,7 +2,7 @@
 My name is Noah. I make stuff. Here's some of my details. 
 
 ## ⌨️ Some tech I use: 
-- TypeScript (+ [node.js](https://nodejs.org/en) & [Bun](https://bun.sh/))
+- TypeScript (+ [node.js](https://nodejs.org/en) & [Deno](https://deno.com))
 - C#
 - Go (+ [htmx](https://htmx.org/))
 - Bash (but usually Go instead, these days)
